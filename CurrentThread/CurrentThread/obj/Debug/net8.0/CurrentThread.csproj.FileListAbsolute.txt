@@ -1,0 +1,14 @@
+D:\PRN222-code\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.exe
+D:\PRN222-code\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.deps.json
+D:\PRN222-code\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.runtimeconfig.json
+D:\PRN222-code\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.dll
+D:\PRN222-code\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.pdb
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.AssemblyInfoInputs.cache
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.AssemblyInfo.cs
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.csproj.CoreCompileInputs.cache
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.dll
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\refint\CurrentThread.dll
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.pdb
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.genruntimeconfig.cache
+D:\PRN222-code\CurrentThread\CurrentThread\obj\Debug\net8.0\ref\CurrentThread.dll
